@@ -7,7 +7,7 @@ class ClassComponent extends Component {
     super(props);
     this.state = {
       count: 0,
-      test: "123",
+      test: "456",
     };
   }
 
